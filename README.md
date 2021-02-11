@@ -1,4 +1,4 @@
 # hello-world
-Literally just a hello world file, kinda cringe
+Hello World Sample Program
 
-What's up gamers? Yeah I'm a bit of a gamer too
+Really just seeing if I can do this right
